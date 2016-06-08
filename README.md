@@ -9,7 +9,7 @@ Sample which illustrates how to use the IdentityServer3.EntityFramework plugin w
 #### MembershipReboot [link](https://github.com/IdentityServer/IdentityServer3.Samples/tree/master/source/MembershipReboot)
 Sample which illustrates how to use the IdentityServer3.MembershipReboot plugin for identity management using MembershipReboot.
 
-# Background
+## Background
 
 There are several good reasons for why you should not store the **IdentityServer** config and **MembershipReboot** userdata in a single database. 
 
